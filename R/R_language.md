@@ -1,4 +1,4 @@
-# Coding in R
+# Coding in R - Guia rápido
 
 Contents:
 
